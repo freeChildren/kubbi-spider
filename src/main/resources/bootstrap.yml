@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: kubbi-spider
+  cloud:
+    config:
+      uri: https://github.com/freeChildren/kubbi-config-repertory.git
+      search-paths: /config-repo
